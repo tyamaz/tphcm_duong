@@ -2,6 +2,7 @@
 	Bà Lê Chân
 	Bùi Thị Xuân
 ぶいびえん	Bùi Viện	地名
+ぶいベん	Bùi Viện	地名
 	Bến Chương Dương
 	Cao Bá Nhạ
 	Cao Bá Quát
@@ -12,7 +13,7 @@
 	Cô Giang
 	Công Trường Lam Sơn
 	Công Trường Mê Linh
-	Cống Quỳnh
+こんぐぇん	Cống Quỳnh	地名
 	Hai Bà Trưng
 	Hoàng Sa
 	Huyền Quang
@@ -28,10 +29,10 @@
 	Ký Con
 	Lê Anh Xuân
 	Lê Công Kiều
-	Lê Duẩn
-	Lê Lai
-	Lê Lợi
-	Lê Thánh Tôn
+れだん	Lê Duẩn	地名
+れらい	Lê Lai	地名
+れろい	Lê Lợi	地名
+れたんとん	Lê Thánh Tôn	地名
 	Lê Thị Hồng Gấm
 	Lê Thị Riêng
 	Lê Văn Hưu
@@ -60,11 +61,12 @@
 	Nguyễn Thành Ý
 	Nguyễn Thái Bình
 	Nguyễn Thái Học
-	Nguyễn Thị Minh Khai
+ぐぇんちーみんかい	Nguyễn Thị Minh Khai	地名
+ぐぇんちーみんはい	Nguyễn Thị Minh Khai	地名
 	Nguyễn Thị Nghĩa
 	Nguyễn Trung Ngạn
 	Nguyễn Trung Trực
-	Nguyễn Trãi
+ぐぇんちゃい	Nguyễn Trãi	地名
 	Nguyễn Văn Cừ
 	Nguyễn Văn Giai
 	Nguyễn Văn Nguyễn
@@ -83,11 +85,11 @@
 	Pho Duc Chinh
 	Phùng Khắc Khoan
 	Phạm Hồng Thái
-	Phạm Ngũ Lão
+ふぁんぐーらお	Phạm Ngũ Lão	地名
 	Phạm Ngọc Thạch
 	Phạm Viết Chánh
 	Sương Nguyệt Ánh
-	Thi Sách
+てぃーさっ	Thi Sách	地名
 	Thái Văn Lung
 	Thạch Thị Thanh
 	Thủ Khoa Huân
