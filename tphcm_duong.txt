@@ -14,7 +14,7 @@
 	Công Trường Lam Sơn
 	Công Trường Mê Linh
 こんぐぇん	Cống Quỳnh	地名
-	Hai Bà Trưng
+はいばーちゅん	Hai Bà Trưng	地名
 	Hoàng Sa
 	Huyền Quang
 	Huỳnh Khương Ninh
@@ -43,7 +43,7 @@
 	Mai Thị Lựu
 	Mạc Thị Bưởi
 	Mạc Đỉnh Chi
-	Nam Kỳ Khởi Nghĩa
+なむきーこいぎあ	Nam Kỳ Khởi Nghĩa	地名
 	Nam Quốc Cang
 	Nguyễn An Ninh
 	Nguyễn Bỉnh Khiêm
@@ -115,12 +115,14 @@
 	ĐH 406
 	Đinh Công Tráng
 	Đinh Tiên Hoàng
-	Điện Biên Phủ
+でぃえんべんふー	Điện Biên Phủ	地名
+でんんべんふー	Điện Biên Phủ	地名
 	Đông Du
 	Đặng Dung
 	Đặng Thị Nhu
 	Đặng Trần Côn
 	Đặng Tất
-	Đề Thám
-	Đồng Khởi
+でたん	Đề Thám	地名
+でたむ	Đề Thám	地名
+どんこい	Đồng Khởi	地名
 	Đỗ Quang Đẩu
