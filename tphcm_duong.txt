@@ -3,6 +3,8 @@
 	Bùi Thị Xuân
 ぶいびえん	Bùi Viện	地名
 ぶいベん	Bùi Viện	地名
+ぶいびぃえん	Bùi Viện	地名
+ぶいびぃぇん	Bùi Viện	地名
 	Bến Chương Dương
 	Cao Bá Nhạ
 	Cao Bá Quát
@@ -110,6 +112,8 @@
 	Tôn Thất Đạm
 	Tôn Đức Thắng
 	Võ Thị Sáu
+ヴぉーヴぁんたん	Võ Văn Tần	地名
+ぼーばんたん	Võ Văn Tần	地名
 	YERSIN
 	calmette
 	ĐH 406
