@@ -9,7 +9,7 @@
 	Cao Bá Nhạ
 	Cao Bá Quát
 	Chu Mạnh Trinh
-	Cách Mạng Tháng 8
+	Cách Mạng Tháng
 	Cây Điệp
 	Cô Bắc
 	Cô Giang
@@ -75,7 +75,7 @@
 	Nguyễn Văn Thủ
 	Nguyễn Văn Tráng
 	Nguyễn Đình Chiểu
-	Ngô Văn Năm
+ごーばんなむ	Ngô Văn Năm	地名
 	Ngô Đức Kế
 	Pasteur
 	Phan Bội Châu
@@ -110,12 +110,12 @@
 	Tôn Thất Thiệp
 	Tôn Thất Tùng
 	Tôn Thất Đạm
-	Tôn Đức Thắng
+とぅんどぅくたん	Tôn Đức Thắng	地名
 	Võ Thị Sáu
 ヴぉーヴぁんたん	Võ Văn Tần	地名
 ぼーばんたん	Võ Văn Tần	地名
 	YERSIN
-	calmette
+	Calmette
 	ĐH 406
 	Đinh Công Tráng
 	Đinh Tiên Hoàng
