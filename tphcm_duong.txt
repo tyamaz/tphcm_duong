@@ -16,12 +16,17 @@
 	Công Trường Lam Sơn
 	Công Trường Mê Linh
 こんぐぇん	Cống Quỳnh	地名
+こんうぇん	Cống Quỳnh	地名
+こんぐぃん	Cống Quỳnh	地名
+こんうぃん	Cống Quỳnh	地名
 はいばーちゅん	Hai Bà Trưng	地名
 	Hoàng Sa
 	Huyền Quang
 	Huỳnh Khương Ninh
 	Huỳnh Thúc Kháng
-	Hàm Nghi
+はむぎー	Hàm Nghi	地名
+はむぎ	Hàm Nghi	地名
+はむぎぃ	Hàm Nghi	地名
 	Hàn Thuyên
 	Hòa Mỹ
 	Hải Triều
@@ -111,6 +116,7 @@
 	Tôn Thất Tùng
 	Tôn Thất Đạm
 とぅんどぅくたん	Tôn Đức Thắng	地名
+とんどくたん	Tôn Đức Thắng	地名
 	Võ Thị Sáu
 ヴぉーヴぁんたん	Võ Văn Tần	地名
 ぼーばんたん	Võ Văn Tần	地名
@@ -120,7 +126,7 @@
 	Đinh Công Tráng
 	Đinh Tiên Hoàng
 でぃえんべんふー	Điện Biên Phủ	地名
-でんんべんふー	Điện Biên Phủ	地名
+でんべんふー	Điện Biên Phủ	地名
 	Đông Du
 	Đặng Dung
 	Đặng Thị Nhu
