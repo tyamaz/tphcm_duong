@@ -96,8 +96,11 @@
 	Phạm Ngọc Thạch
 	Phạm Viết Chánh
 	Sương Nguyệt Ánh
+てぃーさ	Thi Sách	地名
 てぃーさっ	Thi Sách	地名
-	Thái Văn Lung
+てぃーさっく	Thi Sách	地名
+たいばんるん	Thái Văn Lung	地名
+たいヴぁんるん	Thái Văn Lung	地名
 	Thạch Thị Thanh
 	Thủ Khoa Huân
 	Trương Định
