@@ -1,4 +1,6 @@
 あれくさんどれでろーぜす	Alexandre de Rhodes	地名
+あんどぅんヴぉん	An Dương Vương	地名
+ばーたんはい	Ba Tháng Hai	地名
 	Bà Lê Chân
 	Bùi Thị Xuân
 ぶいびえん	Bùi Viện	地名
@@ -9,8 +11,9 @@
 	Cao Bá Nhạ
 	Cao Bá Quát
 	Chu Mạnh Trinh
-	Cách Mạng Tháng
+かくまんたんたん	Cách Mạng Tháng Tám	地名
 	Cây Điệp
+ちょろん	Chợ Lớn	地名
 	Cô Bắc
 	Cô Giang
 	Công Trường Lam Sơn
@@ -62,6 +65,7 @@
 	Nguyễn Huệ
 	Nguyễn Hữu Cầu
 	Nguyễn Khắc Nhu
+グェンキム	Nguyễn Kim	地名
 	Nguyễn Phi Khanh
 	Nguyễn Siêu
 	Nguyễn Thiệp
@@ -106,11 +110,12 @@
 	Trương Định
 	Trần Cao Vân
 	Trần Doãn Khanh
-	Trần Hưng Đạo
+ちゃんふんだお	Trần Hưng Đạo	地名
 	Trần Hương Đạo
 	Trần Khánh Dư
 	Trần Khắc Chân
 	Trần Nhật Duật
+ちゃんふー	Trần Phú	地名
 	Trần Quang Khải
 	Trần Quý Khoách
 	Trần Đình Xu
